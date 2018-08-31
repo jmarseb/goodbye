@@ -1,2 +1,2 @@
 # goodbye
-good by cruel world
+goodbye cruel world
